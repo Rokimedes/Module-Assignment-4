@@ -1,0 +1,15 @@
+1. What is the DOM?
+
+2. List three methods to manipulate the DOM.
+
+3. What is an asynchronous call?
+
+4. Briefly explain what the sources tab in Chromes Developers Tools does.
+
+5. What is a JavaScript promise?
+
+6. What is an API?
+
+7. What is a JavaScript Event?
+
+8. What is event bubbling?
