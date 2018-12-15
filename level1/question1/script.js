@@ -1,6 +1,5 @@
-var btn = document.querySelector("button");
+var alertBtn = document.querySelector("button");
 
-btn.addEventListener("click", function() {
+alertBtn.addEventListener("click", function() {
     alert("You clicked the button! Yaaay..!");
-    stopP
 }, false);
