@@ -1,15 +1,50 @@
 1. What is the DOM?
+    
+    Answer: The DOM (Document Object Model), is a programming interface for HTML
+            and XML documents. It represent a page where programs can change the
+            document structure, style and content. The DOM represents the documents
+            as nodes and objects.
 
 2. List three methods to manipulate the DOM.
 
+    Answer: 
+
+           - querySelector() returns the first element that matches one or more CSS selectors.
+
+           - createElement() creates a new HTML element using the name of the HTML tag, such as 'p' and 'div'.
+
+           - appendChild() adds an element as the last child to the HTML element that invokes the method.
+
 3. What is an asynchronous call?
+
+    Answer: And asynchronous call is a method that returns to the caller immediately before the completion 
+            of its processing and without blocking the calling thread. 
 
 4. Briefly explain what the sources tab in Chromes Developers Tools does.
 
+    Answer: The source tab in the dev tools is where you debug your JavaScript, save and run snippets
+            of JavaScript and save changes that you make in DevTools to disk. 
+            You can pause your code with Breakpoints to see where the bug might be, and it will highlight 
+            any variables and code that is currently active. 
+
 5. What is a JavaScript promise?
+
+    Answer: A promise is the eventual result of an asynchronous operation. It is a method that act
+            as an placeholder into which the successfull result value or the reason for failure will log. 
 
 6. What is an API?
 
+    Answer: An API (Application Programming Interface), is a set of functions that allows the creation
+            of applications which can access the data in different applications. 
+
 7. What is a JavaScript Event?
 
+    Asnwer: JavaScript's interaction with HTML is handled with a series of events. Events occour when the user
+            or the browser manipulates the page. When the page loads, it is called an event. When you click a button,
+            that is also an event. 
+
 8. What is event bubbling?
+
+    Answer: Event bubbling is a type of event propagation, where the event first triggers the inngermost
+            target element and then triggers on the parents of the target element in the same hierarchy
+            untill it reaches the outermost DOM element or document object. 
